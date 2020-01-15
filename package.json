@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Abakrii/Create-NPM-JavaScript-Packages-using-TypeScript#readme",
   "devDependencies": {
     "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "tsc": "^1.20150623.0"
   }
 }
